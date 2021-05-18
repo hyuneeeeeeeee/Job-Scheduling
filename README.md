@@ -65,3 +65,7 @@ n = 4 : 3, 2, 5, 9
 
 n = 5 : 6, 9, 10, 3, 8
 
+![greedy job](https://user-images.githubusercontent.com/80511341/118692161-bc37ea00-b844-11eb-9d34-eab23406a0e6.jpg)
+
+![brute force job](https://user-images.githubusercontent.com/80511341/118692184-be9a4400-b844-11eb-928a-f5d73c9f8942.jpg)
+
